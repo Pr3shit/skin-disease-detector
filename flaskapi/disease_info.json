@@ -1,0 +1,142 @@
+{
+    "Eczema": {
+        "symptoms": [
+            "Dry, itchy, inflamed skin",
+            "Red patches, sometimes with blisters"
+        ],
+        "remedy": [
+            "Use fragrance-free moisturizers",
+            "Apply topical steroids if prescribed"
+        ],
+        "recommendations": [
+            "Avoid harsh soaps and long hot showers",
+            "Wear breathable clothing"
+        ]
+    },
+    "Warts Molluscum and other Viral Infections": {
+        "symptoms": [
+            "Small bumps on skin",
+            "Sometimes itchy or rough"
+        ],
+        "remedy": [
+            "Topical salicylic acid",
+            "Cryotherapy if persistent"
+        ],
+        "recommendations": [
+            "Avoid touching or scratching lesions",
+            "Keep area clean and dry"
+        ]
+    },
+    "Melanoma": {
+        "symptoms": [
+            "Dark, irregular mole",
+            "Change in color, size, or border"
+        ],
+        "remedy": [
+            "Seek immediate dermatological evaluation",
+            "Surgical removal if confirmed"
+        ],
+        "recommendations": [
+            "Avoid excessive sun exposure",
+            "Perform regular self-checks"
+        ]
+    },
+    "Atopic Dermatitis": {
+        "symptoms": [
+            "Intense itching",
+            "Red, inflamed patches on flexural areas"
+        ],
+        "remedy": [
+            "Use moisturizers",
+            "Topical corticosteroids for flare-ups"
+        ],
+        "recommendations": [
+            "Maintain good skin hydration",
+            "Avoid triggers like detergents"
+        ]
+    },
+    "Basal Cell Carcinoma": {
+        "symptoms": [
+            "Pearly or waxy bump",
+            "May bleed or scab repeatedly"
+        ],
+        "remedy": [
+            "Surgical removal",
+            "Cryosurgery or laser therapy"
+        ],
+        "recommendations": [
+            "Avoid UV exposure",
+            "Regular skin check-ups"
+        ]
+    },
+    "Melanocytic Nevi": {
+        "symptoms": [
+            "Brown or black moles",
+            "Usually harmless unless changing"
+        ],
+        "remedy": [
+            "Monitor for any changes",
+            "Removal if atypical"
+        ],
+        "recommendations": [
+            "Avoid excessive sunlight",
+            "Check moles annually"
+        ]
+    },
+    "Benign Keratosis-like Lesions": {
+        "symptoms": [
+            "Brown, scaly growths",
+            "May appear stuck on skin"
+        ],
+        "remedy": [
+            "Generally harmless",
+            "Cryotherapy for cosmetic removal"
+        ],
+        "recommendations": [
+            "No specific treatment required",
+            "Monitor for sudden changes"
+        ]
+    },
+    "Psoriasis / Lichen Planus and related diseases": {
+        "symptoms": [
+            "Thick red patches with white scales",
+            "Itchy, sometimes painful lesions"
+        ],
+        "remedy": [
+            "Use medicated creams (coal tar, salicylic acid)",
+            "UV light therapy if severe"
+        ],
+        "recommendations": [
+            "Keep skin moisturized",
+            "Avoid stress triggers"
+        ]
+    },
+    "Seborrheic Keratoses and other Benign Tumors": {
+        "symptoms": [
+            "Brown or black wart-like spots",
+            "Usually non-itchy"
+        ],
+        "remedy": [
+            "No treatment needed unless irritated",
+            "Cryotherapy if desired"
+        ],
+        "recommendations": [
+            "Monitor regularly",
+            "Avoid scratching"
+        ]
+    },
+    "Tinea / Ringworm / Candidiasis and other Fungal Infections": {
+        "symptoms": [
+            "Circular red rash with clear center",
+            "Itchy and spreading"
+        ],
+        "remedy": [
+            "Use antifungal creams (clotrimazole, terbinafine)",
+            "Keep area dry"
+        ],
+        "recommendations": [
+            "Avoid sharing towels",
+            "Wash clothes in hot water"
+        ]
+    }
+}

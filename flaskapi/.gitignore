@@ -1,0 +1,27 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ---- Virtual environments ----
+venv/
+.venv/
+
+# ---- Environment variables ----
+.env
+
+# ---- Model and large files ----
+*.h5
+*.pkl
+*.pt
+
+# ---- Temporary files ----
+*.tmp
+*.log
+
+# ---- IDE and system files ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
